@@ -1,0 +1,56 @@
+id: PFBD476F2
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13320
+  instance_id: http://purl.bdrc.io/resource/IE3JT13320
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - ཕྱག་ཆེན་སྔོན་འགྲོའི་སྐོར།
+  alt_title:
+    bo:
+    - ཕྱག་རྒྱ་ཆེན་པོའི་སྔོན་འགྲོའི་སྐོར།
+  author: http://purl.bdrc.io/resource/P843
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c3c6656eaeb442e28e6e307440ca19fc:
+      title: ༄༅།་།ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་ཁྲིད་རིམ་གསལ་བྱེད་དེ་བཞིན་ཉིད་ཀྱི་རང་ཞལ་མངོན་སུམ་སྣང་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།་།
+      volume_number: 2
+      base_file: UT3JT13320_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7B7E03C306734F3C
+      image_group: null
+      quality: null
+    bca7f5bd6fbc450e993d1e338a07ef3e:
+      title: ༄༅།་།སྔོན་འགྲོའི་ཟིན་བྲིས་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13320_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL381D6B87C9FDA034
+      image_group: null
+      quality: null
+    56cfde2afd0f4be5b30c919e3a531ab5:
+      title: ༄༅།་།གདམས་ངག་ཉམས་ལེན་པར་མཁོ་བ་ཟབ་ཁྲིད་མཐའ་དག་གི་སྔོན་འགྲོའི་ངག་འདོན་གྱི་རིམ་པར་དམིགས་ཁྲིད་དོན་འགྲེལ་ཉུང་ངུར་བཀོད་པ་མཆོག་གི་བྱིན
+      volume_number: 4
+      base_file: UT3JT13320_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCD474596CF898B81
+      image_group: null
+      quality: null
+    59a64d5f438c4eea90b3a23e6eb44cc8:
+      title: ༄༅།་།ཁྲིད་ཀྱི་སྔོན་འགྲོའི་ཆོག་ཁྲིགས་ངག་འདོན་དུ་བཀོད་པ་རྡོ་རྗེའི་གྲོང་དུ་འདྲེན་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།་།
+      volume_number: 5
+      base_file: UT3JT13320_005_0000.txt
+      reference: http://purl.bdrc.io/resource/VL52697D439F4ADCB7
+      image_group: null
+      quality: null
+    b1aeddb506384bf78cb122d8927115c4:
+      title: ༄༅།་།སྔོན་འགྲོ་བཞི་སྦྱོར་གྱི་ཁྲིད་དམིགས་ངག་འདོན་ཉུང་ངུར་སྤེལ་བ་བྱང་ཆུབ་སྣང་བྱེད་
+      volume_number: 3
+      base_file: UT3JT13320_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7F713EA9116C8F05
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:21:28.520055'
+last_modified_at: '2021-12-22T11:21:28.520061'
