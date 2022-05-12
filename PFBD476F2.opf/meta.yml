@@ -54,3 +54,8 @@ source_metadata:
   reproductionOf: []
 created_at: '2021-12-22T11:21:28.520055'
 last_modified_at: '2021-12-22T11:21:28.520061'
+statistics:
+  total_words: 69228
+  total_non_words: 6835
+quality:
+  non_words_ratio: 0.1
